@@ -7,6 +7,6 @@ I then modified the code to allow admin to have the option to display on Post, P
 
 ![Backend](https://user-images.githubusercontent.com/47201621/152500432-284ef0fe-f7e6-4f37-932d-118be99a1f08.png)
 
+I know it's not suitable to add word count info to the page(post type).
 
-
-
+I was just experimenting and trying to learn & find out if I can do it.
