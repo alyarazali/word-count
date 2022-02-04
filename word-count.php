@@ -5,7 +5,7 @@ Plugin Name: Word Count Info
 Description: Word Count Info you can add in Page and Post content.
 Version: 1.1
 Author: Alya Razali
-Author URI: #
+Author URI: https://alyarazali.github.io/Portfolio/
 Text Domain: wcipaldomain
 Domain Path: /languages
 */
